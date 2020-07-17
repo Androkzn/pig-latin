@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE36CACE-B67B-4D37-83CC-24648F94ECDB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D8C59E8-9325-4FE1-827F-31F04CD83EBA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pig_latin/Translation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Translation"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3D8C59E8-9325-4FE1-827F-31F04CD83EBA - 4e51b162774c122a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.Translation.__allocating_init() -&gt; pig_latin.Translation"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/Translation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "3D8C59E8-9325-4FE1-827F-31F04CD83EBA - 7d97daa2cc5f709e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.Translation.init() -&gt; pig_latin.Translation"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/Translation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "3D8C59E8-9325-4FE1-827F-31F04CD83EBA - dd51002897c9505e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.Translation.deinit"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/Translation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3D8C59E8-9325-4FE1-827F-31F04CD83EBA - d70dfbfa05b36d2b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.Translation.__deallocating_deinit"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/Translation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EC887CB-48BE-4542-ADA9-A05273E2CB6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pig_latinTests/TranslationTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testTranslationCorrectSimpleConsonant()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28C1977B-299E-4395-9305-EE4246AE9D45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pig_latin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "28C1977B-299E-4395-9305-EE4246AE9D45 - 81726514f0fc2b73"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; pig_latin.ViewController"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "28C1977B-299E-4395-9305-EE4246AE9D45 - 8dc25ffa034b3240"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; pig_latin.ViewController"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "28C1977B-299E-4395-9305-EE4246AE9D45 - af8e07c70b169a36"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;pig_latin.ViewController&gt;"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "28C1977B-299E-4395-9305-EE4246AE9D45 - df5d308dea584884"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;pig_latin.ViewController&gt;"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "28C1977B-299E-4395-9305-EE4246AE9D45 - adf23a9b742815a7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latin.ViewController.__deallocating_deinit"
+                  moduleName = "pig_latin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pig_latinTests/ViewControllerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewControllerTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - 8574383e2abc5864"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.viewController.getter : Swift.Optional&lt;pig_latin.ViewController&gt;"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - 6645a8a8b5d55c20"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.viewController.setter : Swift.Optional&lt;pig_latin.ViewController&gt;"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - 7cb725fef30aeb95"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.viewController.modify : Swift.Optional&lt;pig_latin.ViewController&gt;"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - a968f7aa1e8a40c6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.viewController.modify : Swift.Optional&lt;pig_latin.ViewController&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - 82549a6fda39501"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; pig_latinTests.ViewControllerTest"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - 378cfdde890984e1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.init(selector: ObjectiveC.Selector) -&gt; pig_latinTests.ViewControllerTest"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "5034DC7A-9267-45EF-86E1-B948C56FF934 - ad5b33c8fb0b3639"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pig_latinTests.ViewControllerTest.init() -&gt; pig_latinTests.ViewControllerTest"
+                  moduleName = "pig_latinTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/atekhtelev/Desktop/BCIT/COURSE/Week7/pig-latin-Androkzn/pig_latinTests/ViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
